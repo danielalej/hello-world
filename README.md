@@ -1,2 +1,2 @@
 # hello-world
-A program that prints out "hello world"
+A program that prints out "Hello World!"
